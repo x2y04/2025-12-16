@@ -26,3 +26,5 @@ stash changes and contine -> 先把自己寫的東西放到一個獨立的空間
 2.要先打標題說明(描述可打可不打)
 3.commit ->上傳到暫存空間
 4.push origin ->上傳到github的儲存庫裡面
+
+// 偷看你的操作說明嘿嘿
